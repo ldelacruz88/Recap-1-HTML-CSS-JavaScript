@@ -1,0 +1,42 @@
+body {
+background: radial-gradient(black 15%, transparent 16%) 0 0,
+radial-gradient(black 15%, transparent 16%) 8px 8px,
+radial-gradient(rgba(255,255,255,.1) 15%, transparent 20%) 0 1px,
+radial-gradient(rgba(255,255,255,.1) 15%, transparent 20%) 8px 9px;
+background-color:#282828;
+background-size:16px 16px;
+text-align: center;
+}
+
+h1 {
+    margin: 30px;
+    padding: 10px;
+    font-size: 30px;
+    color: antiquewhite;
+}
+
+h2 {
+    color: antiquewhite;
+    font-size: 25px;
+}
+
+a {
+    color: whitesmoke
+}
+
+ul {
+    text-align: center;
+}
+
+div ul {
+    margin: 30px;
+    background-color: rgba(220, 230, 221, 0.3);
+    border: 1px black;
+    padding: 10px;
+    border-radius: 25px;
+    margin: 5%;
+    font-weight: bold;
+    color: #ffffff;
+    font-size: 20px;
+  }
+  
